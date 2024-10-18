@@ -1,2 +1,1 @@
-# Opensource
-Classes
+EMVision_20223518 박지민 이번 프로젝트는 전자파 감지 기반 공정한 시험 환경 구축이 목표이다.
